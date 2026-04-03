@@ -130,5 +130,5 @@ User Input (Target IP + Port Range)
 - **Project Name**: IntelliPort — AI Powered Port Scanner
 - **Level**: 4th Semester, Computer Science / IT
 - **Domain**: Cybersecurity + Artificial Intelligence
-- **Developer**: [Your Name]
-- **Year**: 2025
+- **Developer**: Bikash Ranjan Sahoo
+- **Year**: 2026
