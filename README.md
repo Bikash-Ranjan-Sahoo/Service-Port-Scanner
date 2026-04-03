@@ -1,5 +1,5 @@
 # 🔍 IntelliPort — AI Powered Port Scanner
-### 4th Semester Project | Cybersecurity + Artificial Intelligence
+### Cybersecurity + Artificial Intelligence
 
 ---
 
